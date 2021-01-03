@@ -5,7 +5,7 @@
 
 active_text_color=#fff
 active_text_shadow_color=#fff
-inactive_text_color=#a1
+inactive_text_color=#a1a1a1
 inactive_text_shadow_color=#a1a1a1
 title_shadow_active=false
 title_shadow_inactive=false
