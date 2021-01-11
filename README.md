@@ -1,4 +1,4 @@
-# Marwaita
+# Marwaita Manjaro
 GTK theme for Budgie desktop based on Marwaita Theme with Manjaro Linux style
 
 ## Requirments
