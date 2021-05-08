@@ -13,7 +13,7 @@
    version="1.1"
    id="svg30"
    sodipodi:docname="menu-inactive.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
   <metadata
      id="metadata36">
     <rdf:RDF>
@@ -41,8 +41,8 @@
      id="namedview32"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="4.2378074"
-     inkscape:cy="18.264578"
+     inkscape:cx="10.944515"
+     inkscape:cy="19.706663"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -53,33 +53,20 @@
      height="32"
      fill="#D6D6D6"
      id="rect20"
-     style="fill:#03977f;fill-opacity:1" />
-  <g
-     style="opacity:0.5;fill:#ffffff;fill-opacity:1"
-     fill="#000000"
-     opacity="0.38"
-     id="g28">
-    <circle
-       cx="16"
-       cy="16"
-       r="12"
-       opacity="0"
-       id="circle24"
-       style="fill:#ffffff;fill-opacity:1" />
-    <circle
-       cx="16"
-       cy="16"
-       r="2"
-       id="circle26"
-       style="fill:#ffffff;fill-opacity:1" />
-  </g>
+     style="fill:#629ade;fill-opacity:1" />
+  <circle
+     cx="16"
+     cy="16"
+     r="2"
+     id="circle26"
+     style="opacity:0.5;fill:#ffffff;fill-opacity:1" />
   <rect
      width="32"
      height="1"
      fill="#FFFFFF"
      fill-opacity="0.4"
      id="rect166"
-     style="opacity:0.5;fill:#000000;fill-opacity:1"
+     style="opacity:0.3;fill:#000000;fill-opacity:1"
      x="0"
      y="0" />
   <rect
@@ -88,7 +75,7 @@
      fill="#FFFFFF"
      fill-opacity="0.4"
      id="rect166-3"
-     style="opacity:0.5;fill:#000000;fill-opacity:1"
+     style="opacity:0.3;fill:#000000;fill-opacity:1"
      x="0"
      y="31" />
 </svg>

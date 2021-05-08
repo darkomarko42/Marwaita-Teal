@@ -13,7 +13,7 @@
    version="1.1"
    id="svg174"
    sodipodi:docname="stick-toggled-inactive.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
   <metadata
      id="metadata180">
     <rdf:RDF>
@@ -41,7 +41,7 @@
      id="namedview176"
      showgrid="false"
      inkscape:zoom="7.375"
-     inkscape:cx="-12.277385"
+     inkscape:cx="-17.972301"
      inkscape:cy="20.789405"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -53,38 +53,25 @@
      height="32"
      fill="#D6D6D6"
      id="rect164"
-     style="fill:#03977f;fill-opacity:1" />
+     style="fill:#629ade;fill-opacity:1" />
   <rect
      width="32"
      height="1"
      fill="#FFFFFF"
      fill-opacity="0.4"
      id="rect166"
-     style="fill:#000000;fill-opacity:1;opacity:0.5" />
-  <g
-     style="opacity:0.5;fill:#ffffff;fill-opacity:1"
-     fill="#000000"
-     opacity="0.38"
-     id="g172">
-    <circle
-       cx="16"
-       cy="16"
-       r="12"
-       opacity="0"
-       id="circle168"
-       style="fill:#ffffff;fill-opacity:1" />
-    <path
-       d="m16 10a6 6 0 0 0 -6 6 6 6 0 0 0 6 6 6 6 0 0 0 6 -6 6 6 0 0 0 -6 -6zm0 2a4 4 0 0 1 4 4 4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4zm0 2a2 2 0 0 0 -2 2 2 2 0 0 0 2 2 2 2 0 0 0 2 -2 2 2 0 0 0 -2 -2z"
-       id="path170"
-       style="fill:#ffffff;fill-opacity:1" />
-  </g>
+     style="fill:#000000;fill-opacity:1;opacity:0.3" />
+  <path
+     d="m 16,10 a 6,6 0 0 0 -6,6 6,6 0 0 0 6,6 6,6 0 0 0 6,-6 6,6 0 0 0 -6,-6 z m 0,2 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 z m 0,2 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z"
+     id="path170"
+     style="opacity:0.5;fill:#ffffff;fill-opacity:1" />
   <rect
      width="32"
      height="1"
      fill="#FFFFFF"
      fill-opacity="0.4"
      id="rect166-3"
-     style="opacity:0.5;fill:#000000;fill-opacity:1"
+     style="opacity:0.3;fill:#000000;fill-opacity:1"
      x="0"
      y="31" />
 </svg>
