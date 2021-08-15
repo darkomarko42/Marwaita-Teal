@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Marwaita Manjaro Alternative
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Marwaita Manjaro Alternative
+MetacityTheme=Marwaita Manjaro Alternative
+IconTheme=Luna
+CursorTheme=Luna
+CursorSize=24
