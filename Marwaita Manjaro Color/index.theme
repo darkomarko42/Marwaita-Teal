@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Marwaita Manjaro Color
+Name=Marwaita Color
 Comment=GTK Theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Marwaita Manjaro Color
-MetacityTheme=Marwaita Manjaro Color
+GtkTheme=Marwaita Color
+MetacityTheme=Marwaita Color
 IconTheme=Luna-Light
 CursorTheme=Luna
 CursorSize=24
