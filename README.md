@@ -1,5 +1,5 @@
-# Marwaita Manjaro
-GTK theme for Budgie desktop based on Marwaita Theme with Manjaro Linux style
+# Linea
+GTK theme for Cinnamon desktop
 
 ## Requirments
 
@@ -7,4 +7,3 @@ GTK theme for Budgie desktop based on Marwaita Theme with Manjaro Linux style
 
 ### GTK2 engines requirment
 - GTK2 Murrine engine.
-- GTK2 Clearlooks engine.
