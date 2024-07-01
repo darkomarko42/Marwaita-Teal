@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Marwaita-Alt-Manjaro
+Name=Marwaita-s-Dark-Darkcyan
 Comment=GTK Theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Marwaita-Alt-Manjaro
-MetacityTheme=Marwaita-Alt-Manjaro
+GtkTheme=Marwaita-s-Dark-Darkcyan
+MetacityTheme=Marwaita-s-Dark-Darkcyan
 IconTheme=Marwaita
 CursorTheme=Marwaita
 CursorSize=24
