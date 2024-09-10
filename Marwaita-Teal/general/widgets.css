@@ -308,7 +308,7 @@ button.titlebutton:backdrop { -gtk-icon-shadow: none; }
 
 .ssd .titlebar{ border-width: 0; padding: 4px; }
 
-.default-decoration.titlebar:not(headerbar) button.titlebutton, headerbar.default-decoration button.titlebutton { min-height: 16px; min-width: 16px; margin: 0px;  }
+.default-decoration.titlebar:not(headerbar) button.titlebutton, headerbar.default-decoration button.titlebutton { min-height: 24px; min-width: 24px; margin: 0px;  }
 
 .solid-csd .titlebar:dir(rtl):not(headerbar), .solid-csd .titlebar:dir(ltr):not(headerbar), .solid-csd headerbar:backdrop:dir(rtl), .solid-csd headerbar:backdrop:dir(ltr), .solid-csd headerbar:dir(rtl), .solid-csd headerbar:dir(ltr) { border-radius: 0; box-shadow: none; }
 
